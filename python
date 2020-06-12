@@ -1,3 +1,4 @@
 def function():
   print('hello python')
   print('first')
+  print('second')
